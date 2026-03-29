@@ -1,0 +1,169 @@
+ID,Lösung,Projekt,Stadt,Land,Ziel,Wirkung,Interaktion,Skalierung,Reifegrad
+1,E-Fahrzeugbeschaffung,Triangulum,Manchester,GB,Ökologische Nachhaltigkeit fördern,Governance,Aktiv,Personalisiert,Produkt
+2,Cargo-Bike-Sharing,Triangulum,Manchester,GB,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+3,Gebäude-Energiecontroller,Triangulum,Manchester,GB,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+4,Gebäudeenergieoptimierungen,Triangulum,Manchester,GB,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Commodity
+5,Datenvisualisierungsplattform,Triangulum,Manchester,GB,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Individuell angepasst
+6,Datenkuratierungsdienst,Triangulum,Manchester,GB,Ökonomische Wettbewerbsfähigkeit fördern,Governance,Intern,Stadtweit,Produkt
+7,Sensornetzwerk öffentlicher Raum,Triangulum,Manchester,GB,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Individuell angepasst
+8,E-Auto-Ladesystem,Triangulum,Eindhoven,NL,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Community,Produkt
+9,Echtzeit-Parkleitsystem,Triangulum,Eindhoven,NL,Wissensmanagement und Wissensaustausch fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+10,Biomasseanlage Wärmeversorgung,Triangulum,Eindhoven,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+11,Fernsteuerung Büroenergie,Triangulum,Eindhoven,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+12,Renovierung Familienhäuser,Triangulum,Eindhoven,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+13,Open Data Plattform,Triangulum,Eindhoven,NL,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Individuell angepasst
+14,Smart City Innovationsfonds,Triangulum,Eindhoven,NL,Ökonomische Wettbewerbsfähigkeit fördern,Governance,Aktiv,Stadtweit,Commodity
+15,3D-IKT-Tool Energiesanierung,Triangulum,Eindhoven,NL,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Intern,Personalisiert,Produkt
+16,Intelligente Straßenbeleuchtung,Triangulum,Eindhoven,NL,Bürgerbeteiligung stärken,Infrastruktur,Passiv,Personalisiert,Produkt
+17,Glasfaser-Dateninfrastruktur,Triangulum,Eindhoven,NL,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Passiv,Stadtweit,Commodity
+18,Öffentliche Ladeinfrastruktur,Remourban,Valladolid,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+19,Carsharing-System,Remourban,Valladolid,ES,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+20,Neue öffentliche Busflotte,Remourban,Valladolid,ES,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Produkt
+21,Energieeffiziente Stadtteilsanierung,Remourban,Valladolid,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+22,Städtisches Informationssystem,Remourban,Valladolid,ES,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Produkt
+23,E-Bus-Flotte und Infrastruktur,Remourban,Nottingham,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+24,Ultra-Low-Energy-Gebäudesanierung,Remourban,Nottingham,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+25,Niedertemperaturheizung intelligent,Remourban,Nottingham,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+26,Echtzeit-Energie-Monitoring,Remourban,Nottingham,GB,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+27,PV-Integration City on Cloud,Remourban,Tepebasi,TR,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+28,City on Cloud Plattform,Remourban,Tepebasi,TR,Dienstleistungen effizienter erbringen,Dienstleistung,Intern,Community,Individuell angepasst
+29,Smarte LED-Straßenbeleuchtung,Remourban,Tepebasi,TR,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+30,E-Fahrrad-Verleihsystem,Remourban,Tepebasi,TR,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+31,E-Fahrzeug-Ladeinfrastruktur,GrowSmarter,Barcelona,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+32,Intelligentes Taxistand-System,GrowSmarter,Barcelona,ES,Wissensmanagement und Wissensaustausch fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+33,E-Cargobike-Citylogistik,GrowSmarter,Barcelona,ES,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+34,Verkehrsmanagement-Tool,GrowSmarter,Barcelona,ES,Wissensmanagement und Wissensaustausch fördern,Governance,Intern,Community,Produkt
+35,Energetische Gebäudesanierung,GrowSmarter,Barcelona,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+36,PV- und Energiespeichermanagement,GrowSmarter,Barcelona,ES,Ökologische Nachhaltigkeit fördern,Dienstleistung,Intern,Community,Produkt
+37,E-Fahrzeug-Ladeinfrastruktur,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+38,Elektro- und Lastenrad-Pool,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+39,Nachbarschafts-Lieferpunkte,GrowSmarter,Stockholm,SE,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Community,Produkt
+40,Verkehrssteuerungs-App,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+41,Vorrangsystem Öko-Fahrzeuge,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Governance,Passiv,Personalisiert,Produkt
+42,Energetische Gebäudesanierung,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+43,Haus-Energiemanagementsystem,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Intern,Personalisiert,Produkt
+44,PV- und Energiespeichermanagement,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Intern,Community,Produkt
+45,Abwärme-Integration Fernwärmenetz,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+46,Energiesparzentrum,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Interaktiv,Community,Produkt
+47,Open Data Plattform,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Stadtweit,Individuell angepasst
+48,Intelligente Straßenbeleuchtung,GrowSmarter,Stockholm,SE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+49,Vernetzte Straßeninfrastruktur,GrowSmarter,Stockholm,SE,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+50,Intelligentes Abfallmanagementsystem,GrowSmarter,Stockholm,SE,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+51,E-Fahrzeug-Ladeinfrastruktur,GrowSmarter,Köln,DE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+52,Car- und Bikesharing,GrowSmarter,Köln,DE,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+53,Energetische Quartierssanierung,GrowSmarter,Köln,DE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+54,Quartiersenergiemanagementsystem,GrowSmarter,Köln,DE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Community,Produkt
+55,Open Data Plattform,GrowSmarter,Köln,DE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Stadtweit,Individuell angepasst
+56,Smart Home System,GrowSmarter,Köln,DE,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+57,Kombinierte Lade- und Beleuchtungsinfrastruktur,GrowSmarter,Köln,DE,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+58,E-Bus- und E-Taxi-Flotte,Replicate,San Sebastian,ES,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+59,Ladeinfrastruktur,Replicate,San Sebastian,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+60,E-Auto-Förderung,Replicate,San Sebastian,ES,Ökologische Nachhaltigkeit fördern,Governance,Passiv,Community,Produkt
+61,Gebäudesanierung und Fernwärme,Replicate,San Sebastian,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+62,Energie-Verbrauchsanzeige,Replicate,San Sebastian,ES,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Individuell angepasst
+63,Smart City Mobilitätsplattform,Replicate,San Sebastian,ES,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Individuell angepasst
+64,Open Data und Bürgerbeteiligung,Replicate,San Sebastian,ES,Bürgerbeteiligung stärken,Dienstleistung,Interaktiv,Stadtweit,Individuell angepasst
+65,Intelligente Beleuchtung,Replicate,San Sebastian,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+66,Hochgeschwindigkeitsnetzwerk,Replicate,San Sebastian,ES,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Passiv,Stadtweit,Commodity
+67,E-Bus- und E-Taxi-Flotte,Replicate,Bristol,GB,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+68,Ladeinfrastruktur,Replicate,Bristol,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+69,E-Fahrrad-Beschaffung,Replicate,Bristol,GB,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+70,Nachhaltiger Reiseplaner,Replicate,Bristol,GB,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+71,Gebäudesanierung und Fernwärme,Replicate,Bristol,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+72,PV-Anlagen öffentlich und privat,Replicate,Bristol,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+73,Smart Homes mit intelligenten Geräten,Replicate,Bristol,GB,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+74,Elektrischer Bus,SmartEnCity,Vitoria-Gasteiz,ES,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Produkt
+75,Gebäudesanierung,SmartEnCity,Vitoria-Gasteiz,ES,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+76,Smart City Plattform,SmartEnCity,Vitoria-Gasteiz,ES,Dienstleistungen effizienter erbringen,Governance,Passiv,Stadtweit,Produkt
+77,E-Mobilitätshub,ATELIER,Amsterdam,NL,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Stadtweit,Produkt
+78,PV-Anlagen,ATELIER,Amsterdam,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+79,Biogas aus organischen Abfällen,ATELIER,Amsterdam,NL,Ökologische Nachhaltigkeit fördern,Governance,Intern,Community,Produkt
+80,Demand Response System,ATELIER,Amsterdam,NL,Ökologische Nachhaltigkeit fördern,Dienstleistung,Intern,Community,Produkt
+81,P2P-Energiehandelsplattform,ATELIER,Amsterdam,NL,Ökologische Nachhaltigkeit fördern,Governance,Interaktiv,Community,Produkt
+82,Energy Communities,ATELIER,Amsterdam,NL,Ökologische Nachhaltigkeit fördern,Stakeholder,Interaktiv,Community,Produkt
+83,Grüne Gebäudeinfrastruktur,ATELIER,Amsterdam,NL,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Commodity
+84,E-Fahrzeug-Ladeinfrastruktur,MAKING-CITY,Groningen,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+85,Gebäudesanierung,MAKING-CITY,Groningen,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+86,PV auf Gebäuden und Parkhäusern,MAKING-CITY,Groningen,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+87,Biogas aus Abwasser und Abfall,MAKING-CITY,Groningen,NL,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+88,Solarradweg,MAKING-CITY,Groningen,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+89,E-Mobilitätsdienste,POCITYF,Evora,PT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+90,Sharing-System,POCITYF,Evora,PT,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+91,Gebäudesanierung,POCITYF,Evora,PT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+92,P2P-Energiehandelsplattform,POCITYF,Evora,PT,Bürgerbeteiligung stärken,Governance,Interaktiv,Community,Produkt
+93,Innovatives Fernwärmesystem,POCITYF,Evora,PT,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+94,City Information Plattform,POCITYF,Evora,PT,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Produkt
+95,Smarte Laternen mit EV-Laden und 5G,POCITYF,Evora,PT,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+96,Bürgerbeteiligungsstrategie,POCITYF,Evora,PT,Bürgerbeteiligung stärken,Governance,Aktiv,Stadtweit,Commodity
+97,E-Mobilitätsdienste,POCITYF,Alkmaar,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+98,Gebäudesanierung,POCITYF,Alkmaar,NL,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+99,P2P-Energiehandelsplattform,POCITYF,Alkmaar,NL,Bürgerbeteiligung stärken,Governance,Interaktiv,Community,Produkt
+100,Innovatives Fernwärmesystem,POCITYF,Alkmaar,NL,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+101,Gebäudeenergiemanagement,POCITYF,Alkmaar,NL,Ökologische Nachhaltigkeit fördern,Dienstleistung,Intern,Community,Produkt
+102,E-Mobilität in Gebäuden,SmarterTogether,Lyon,FR,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Community,Produkt
+103,Autonome E-Shuttles,SmarterTogether,Lyon,FR,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Stadtweit,Individuell angepasst
+104,E-Bike-Sharing,SmarterTogether,Lyon,FR,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+105,E-Carsharing,SmarterTogether,Lyon,FR,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+106,Gebäudesanierung,SmarterTogether,Lyon,FR,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+107,PV-Anlagen,SmarterTogether,Lyon,FR,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+108,Wärmegeneratoren und -speicher,SmarterTogether,Lyon,FR,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+109,Energieverbrauchs-Monitoring,SmarterTogether,Lyon,FR,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Produkt
+110,Datenmanagement-Plattform,SmarterTogether,Lyon,FR,Dienstleistungen effizienter erbringen,Dienstleistung,Intern,Community,Individuell angepasst
+111,Community Management System,SmarterTogether,Lyon,FR,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Intern,Community,Produkt
+112,Urban Living Lab,SmarterTogether,Lyon,FR,Bürgerbeteiligung stärken,Stakeholder,Aktiv,Stadtweit,Commodity
+113,E-Betriebsmobilität,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+114,E-Bike-Sharing,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+115,E-Carsharing,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+116,E-Logistik,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+117,Gebäudesanierung,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+118,PV-Anlagen,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+119,Wärmegeneratoren und -speicher,SmarterTogether,Wien,AT,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+120,Datenmanagement-Plattform,SmarterTogether,Wien,AT,Dienstleistungen effizienter erbringen,Dienstleistung,Intern,Community,Individuell angepasst
+121,Intelligente Lichtmasten,SmarterTogether,Wien,AT,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+122,WLAN-Hotspots,SmarterTogether,Wien,AT,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Commodity
+123,Bürgerbeteiligungsplattform,SmarterTogether,Wien,AT,Bürgerbeteiligung stärken,Stakeholder,Aktiv,Stadtweit,Commodity
+124,E-Bike-Sharing,SharingCities,Lissabon,PT,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+125,E-Carsharing,SharingCities,Lissabon,PT,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+126,Energetische Gebäudesanierung,SharingCities,Lissabon,PT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+127,Urban Sharing Plattform,SharingCities,Lissabon,PT,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Individuell angepasst
+128,Intelligente Beleuchtung,SharingCities,Lissabon,PT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+129,Digitaler Sozialmarkt,SharingCities,Lissabon,PT,Bürgerbeteiligung stärken,Dienstleistung,Interaktiv,Community,Produkt
+130,E-Bike-Sharing,SharingCities,Mailand,IT,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+131,Energetische Gebäudesanierung,SharingCities,Mailand,IT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+132,Urban Sharing Plattform,SharingCities,Mailand,IT,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Individuell angepasst
+133,Intelligente Beleuchtung,SharingCities,Mailand,IT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+134,Digitaler Sozialmarkt,SharingCities,Mailand,IT,Bürgerbeteiligung stärken,Dienstleistung,Interaktiv,Community,Produkt
+135,E-Fahrräder und Lastenräder,SharingCities,London,GB,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+136,PV-Integration Greenwich,SharingCities,London,GB,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+137,Energy Hero Digital Market,SharingCities,London,GB,Ökologische Nachhaltigkeit fördern,Governance,Passiv,Community,Produkt
+138,Urban Sharing Plattform,SharingCities,London,GB,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Individuell angepasst
+139,E-Bikesharing-System,SmartEnCity,Tartu,EE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+140,Gebäudesanierung,SmartEnCity,Tartu,EE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+141,E-Mobilitätsstationen,SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+142,E-Dreiräder (E-Trikes),SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+143,E-Carsharing,SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+144,Gebäudesanierung,SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Commodity
+145,PV-Anlagen,SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+146,Wärmegeneratoren und -speicher,SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+147,Datenmanagement-Plattform,SmarterTogether,München,DE,Dienstleistungen effizienter erbringen,Dienstleistung,Intern,Community,Individuell angepasst
+148,Smart-City-App,SmarterTogether,München,DE,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Produkt
+149,Carsharing-Tool Großkunden,SmarterTogether,München,DE,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+150,Smart-Home-Boxen,SmarterTogether,München,DE,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+151,Intelligente Lichtmasten,SmarterTogether,München,DE,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+152,Quartiersboxen mit Kühlmodulen,SmarterTogether,München,DE,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+153,Bürgerbeteiligungsprozess,SmarterTogether,München,DE,Bürgerbeteiligung stärken,Stakeholder,Aktiv,Stadtweit,Commodity
+154,E-Taxi-Flotte,Replicate,Florenz,IT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+155,ParkUs Parkplatz-App,Replicate,Florenz,IT,Dienstleistungen effizienter erbringen,Dienstleistung,Interaktiv,Personalisiert,Produkt
+156,Soziale Mobilitätsdienste,Replicate,Florenz,IT,Bürgerbeteiligung stärken,Dienstleistung,Passiv,Personalisiert,Produkt
+157,Intelligente Beleuchtung,Replicate,Florenz,IT,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Personalisiert,Produkt
+158,GoalGreen und Fast Booking App,Replicate,Florenz,IT,Ökologische Nachhaltigkeit fördern,Dienstleistung,Passiv,Community,Produkt
+159,Biogas-Busflotte,SmartEnCity,Sonderborg,DK,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Produkt
+160,PV mit Batteriespeicher,SmartEnCity,Sonderborg,DK,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+161,City Information Plattform,SmartEnCity,Sonderborg,DK,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Individuell angepasst
+162,Nachhaltige Flugkraftstoffe,ATELIER,Kopenhagen,DK,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Individuell angepasst
+163,Betankungsinfrastruktur Flughafen,ATELIER,Kopenhagen,DK,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Stadtweit,Individuell angepasst
+164,PV-System für Bodentransport,ATELIER,Kopenhagen,DK,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Stadtweit,Produkt
+165,E-Ladeinfrastruktur Flughafen,ATELIER,Kopenhagen,DK,Ökologische Nachhaltigkeit fördern,Infrastruktur,Passiv,Stadtweit,Produkt
+166,E-Fahrzeuge Bodentransport,ATELIER,Kopenhagen,DK,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Produkt
+167,Geothermisches Fernwärmesystem,MAKING-CITY,Oulu,FI,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt
+168,Thermische Energiespeicherung,MAKING-CITY,Oulu,FI,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Produkt

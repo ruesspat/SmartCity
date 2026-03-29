@@ -1,0 +1,135 @@
+ID,Lösung,Stadt,Ziel,Wirkung,Interaktion,Skalierung,Reifegrad
+1,Digitalisierung des Parkraummanagements,Bochum,Dienstleistungen effizienter erbringen,IKT&Technologie,Interaktiv,Community,Produkt
+2,Freies WLAN Innenstadt und ÖPNV,Bochum,Dienstleistungen effizienter erbringen,IKT&Technologie,Interaktiv,Community,Produkt
+3,Flächendeckendes LoRaWAN,Bochum,Ökonomische Wettbewerbsfähigkeit fördern,IKT&Technologie,Passiv,Community,Commodity
+4,Bürger Echo,Bochum,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Stadtweit,Produkt
+5,ShiftDigital,Bochum,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Produkt
+6,Consul Online-Beteiligungsplattform,Detmold,Bürgerbeteiligung stärken,IKT&Technologie,Aktiv,Stadtweit,Produkt
+7,DorfFunk App,Detmold,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Community,Produkt
+8,Digitales Objektgutachten,Detmold,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Intern,Community,Produkt
+9,Serviceportal-Lösung,Detmold,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Stadtweit,Commodity
+10,Appmold - Smart City App,Detmold,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Stadtweit,Produkt
+11,Urban Platform,Dresden,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Commodity
+12,E-Parkschein App (Handyparken),Dresden,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Produkt
+13,Straßenkunst-App,Dresden,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Community,Produkt
+14,Dreck-weg-App,Dresden,Bürgerbeteiligung stärken,Dienstleistung,Interaktiv,Stadtweit,Produkt
+15,Neues Verwaltungszentrum (VWZ),Dresden,Dienstleistungen effizienter erbringen,Infrastruktur,Interaktiv,Stadtweit,Commodity
+16,Unabhängiges Bürgernetz mit Zugang zum Internet,Einbeck,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Commodity
+17,360 Grad Zoom Einbeck Plattform,Einbeck,Ökonomische Wettbewerbsfähigkeit fördern,IKT&Technologie,Passiv,Community,Produkt
+18,Einrichtung einer website der Stadtjugendpflege,Einbeck,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Intern,Community,Commodity
+19,Aufbau einer Multi-Channel-Datenbank,Einbeck,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Community,Commodity
+20,Entwicklung des front-ends für eGovernmentangebote,Einbeck,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Produkt
+21,Umrüstung Straßenbeleuchtung auf LED + Steuerung,Geestland,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Personalisiert,Commodity
+22,Installation Solaranlage Dach Rathaus in Langen,Geestland,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+23,E-Mobilität in der Verwaltung,Geestland,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Produkt
+24,Bürgerbeteiligung Ideenkarte Klima-/Umweltschutz,Geestland,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Stadtweit,Produkt
+25,Digitalisierung Haus-& Gebäudeakten im Baubereich,Geestland,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Intern,Community,Commodity
+26,Dynamisches Wärmekataster DynamiKa,Gießen,Ökologische Nachhaltigkeit fördern,Governance,Interaktiv,Personalisiert,Produkt
+27,Beteiligungsplattform Unsere Heimat - unser Klima,Gießen,Ökologische Nachhaltigkeit fördern,Dienstleistung,Interaktiv,Stadtweit,Individuell angepasst
+28,Digitales Dorfleben,Gießen,Bürgerbeteiligung stärken,Dienstleistung,Interaktiv,Personalisiert,Commodity
+29,Freie WLAN Hotspots,Guben,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Community,Individuell angepasst
+30,Smarte Straßenbeleuchtung,Guben,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+31,GLT Gebäudeleittechnik der Stadtwerke Guben,Guben,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Community,Produkt
+32,Stadtbibliothek Guben,Guben,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Interaktiv,Personalisiert,Commodity
+33,Guben-Gubin App Zwei Rathäuser-eine Eurostadt,Guben,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+34,SMARTilience - smartes Steuerungsmodell,Halle (Saale),Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Community,Commodity
+35,Intelligente Verkehrssysteme - Mobile M.app,Halle (Saale),Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Commodity
+36,Digitales POI-Informationssystem,Halle (Saale),Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Produkt
+37,Wiederherstellung Mitteldeutschen Multimediazentr.,Halle (Saale),Ökonomische Wettbewerbsfähigkeit fördern,Stakeholder,Interaktiv,Community,Commodity
+38,Machbarkeitsstudie: Digital Agentur Weserbergland,Hameln-Pyrmont,Ökonomische Wettbewerbsfähigkeit fördern,Stakeholder,Interaktiv,Community,Commodity
+39,On-Demand Verkehre im ländlichen Raum,Hameln-Pyrmont,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Stadtweit,Produkt
+40,ZediTA - Zentrum f. digit. Transform. u. Arbeit,Hameln-Pyrmont,Ökonomische Wettbewerbsfähigkeit fördern,Stakeholder,Interaktiv,Community,Commodity
+41,GIS-Büro – Kooperative Datenplattform,Hameln-Pyrmont,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Community,Commodity
+42,Praxis in Sicht - med. Versorgung im ländl. Raum,Hameln-Pyrmont,Bürgerbeteiligung stärken,Stakeholder,Interaktiv,Community,Commodity
+43,Digitaler Zwilling,Hannover,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Intern,Community,Commodity
+44,Verkehrsmanagementsystem HannoVerKehr,Hannover,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+45,Initiative Urbane Logistik Hannover,Hannover,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Community,Produkt
+46,Klimaschutzprogramm 2035,Hannover,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+47,Initiative Hannover - Lust auf Fahrrad,Hannover,Ökologische Nachhaltigkeit fördern,Governance,Passiv,Community,Commodity
+48,Green City Plan Hildesheim,Hildesheim,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+49,HI-X-Digihub für Niedersachsen,Hildesheim,Wissensmanagement und Wissensaustausch fördern,Infrastruktur,Interaktiv,Community,Commodity
+50,Kultur-Stream aus dem Ratskeller des Rathauses,Hildesheim,Bürgerbeteiligung stärken,Dienstleistung,Passiv,Community,Commodity
+51,HildeShop – Online-Plattform für Gewerbetreibende,Hildesheim,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Interaktiv,Community,Produkt
+52,Schaffung einer breitbandigen Infrastruktur,Hildesheim,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Passiv,Stadtweit,Commodity
+53,Modellprojekt Smart Country Side,Höxter,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Commodity
+54,Digitale Kompetenz im ländlichen Raum,Höxter,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Interaktiv,Personalisiert,Commodity
+55,Dorf.Zukunft.Digital (DZD),Höxter,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Commodity
+56,Smart Farm OWL / Mobile Smart Farm,Höxter,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Interaktiv,Community,Commodity
+57,Smarte Gesundheits- und Pflegeversorgung,Höxter,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Commodity
+58,3D-Stadtmodell,Kempten,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Intern,Community,Commodity
+59,Simulation u. Erprobung Autonome Kehrmaschine (KM),Kempten,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Personalisiert,Commodity
+60,Flächendeckendes LoRaWan-Netz u. erste Anwendungen,Kempten,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Stadtweit,Produkt
+61,INTERREG eHUB: Verleihsystem für E-Fahrzeuge,Kempten,Ökologische Nachhaltigkeit fördern,Dienstleistung,Interaktiv,Personalisiert,Produkt
+62,Bürgerbeteiligungsplattform (FNP),Kempten,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Stadtweit,Produkt
+63,Prototyp digitaler Verkehrszwilling (VZ),Konstanz,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Intern,Community,Individuell angepasst
+64,Konzept Quartiers-App Konstanz,Konstanz,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+65,LexiKON Smart Wachsen Konstanz,Konstanz,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Commodity
+66,Portal Konstanz mitgestalten,Konstanz,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Stadtweit,Produkt
+67,Smart City App - Die Mein Konstanz App,Konstanz,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Community,Produkt
+68,5G - Dezentrale Gesundheitsversorgung,Kusel,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Stadtweit,Individuell angepasst
+69,Breitbandausbau - Weiße Flecken,Kusel,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Passiv,Stadtweit,Commodity
+70,#mobilwandel2035-Wettbewerb nachhaltige Mobilität,Kusel,Ökologische Nachhaltigkeit fördern,Governance,Passiv,Stadtweit,Commodity
+71,TRAFO - Einsatz digitaler Medien,Kusel,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Interaktiv,Community,Commodity
+72,Ohmbachsee - Glantal by VG Schönenberg-Kübelberg,Kusel,Bürgerbeteiligung stärken,Dienstleistung,Passiv,Stadtweit,Produkt
+73,Linz2Go: regionaler Online-Marktplatz (non-Profit),Linz am Rhein,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Interaktiv,Community,Produkt
+74,Neuer Webauftritt mit digitalem Informationssystem,Linz am Rhein,Wissensmanagement und Wissensaustausch fördern,Infrastruktur,Passiv,Community,Commodity
+75,Digitale Ratsarbeit mithilfe von Tablets,Linz am Rhein,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Community,Commodity
+76,Öffentliches W-LAN und W-LAN-Ausleuchtung,Linz am Rhein,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Commodity
+77,Elektromobilitätsladestationen für E-Bike/E-Auto,Linz am Rhein,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Community,Produkt
+78,Digitaler Marktplatz Mühlhausen,Mühlhausen,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Interaktiv,Community,Produkt
+79,Digitale Dienstleistungen für Bürger und Touristen,Mühlhausen,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Stadtweit,Produkt
+80,LoRaWAN-Übertragungstechnik,Mühlhausen,Ökonomische Wettbewerbsfähigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+81,Neues touristisches Leitsystem,Mühlhausen,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Community,Produkt
+82,Partner der ThüCAT-Datenbank,Mühlhausen,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Community,Commodity
+83,Adaptive Beleuchtung entlang der Kanalpromenade,Münster,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+84,LOOPmünster - Nahverkehr auf Bestellung,Münster,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Personalisiert,Produkt
+85,Leezenflow - Grüne Welle Assistent für Radfahrer,Münster,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+86,#Stadtsache - Zukunft im Quartier gestalten,Münster,Bürgerbeteiligung stärken,Stakeholder,Interaktiv,Community,Produkt
+87,Thermografiebefliegung - Klimaschutz aus der Luft,Münster,Ökologische Nachhaltigkeit fördern,IKT&Technologie,Intern,Stadtweit,Individuell angepasst
+88,Agil-partizipative Entwicklung von Open Government,Oberhausen,Wissensmanagement und Wissensaustausch fördern,Stakeholder,Intern,Community,Commodity
+89,Lab4U Schülerlabor,Oberhausen,Bürgerbeteiligung stärken,Infrastruktur,Interaktiv,Community,Commodity
+90,Intelligentes Verkehrsleitsystem,Oberhausen,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Stadtweit,Produkt
+91,Erweiterung intermodales Mobilitätsangebot,Oberhausen,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Produkt
+92,Altmarktgarten: Leuchtturm der Stadtentwicklung,Oberhausen,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Passiv,Stadtweit,Commodity
+93,Parkunterstützung für Menschen mit Behinderung,Pforzheim,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Personalisiert,Produkt
+94,Plattform Handeln für Pforzheim,Pforzheim,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Interaktiv,Community,Produkt
+95,On-Demand Bus-Shuttles mit intelligentem Routing,Pforzheim,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Personalisiert,Individuell angepasst
+96,Smartes Energiemanagement städtischer Gebäude,Pforzheim,Ökologische Nachhaltigkeit fördern,Dienstleistung,Intern,Personalisiert,Produkt
+97,Smart Benches mit Multimedia und Ladeinfrastruktur,Pforzheim,Dienstleistungen effizienter erbringen,Infrastruktur,Passiv,Personalisiert,Produkt
+98,OpenData-Portal (ODP) & OpenGovernmentData-Konzept,Potsdam,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+99,Pilotprojekt-LoRaWAN,Potsdam,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Individuell angepasst
+100,Bürgerhaushalt Potsdam mit Bürgerbudgets,Potsdam,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Stadtweit,Commodity
+101,LocalLab Potsdam,Potsdam,Bürgerbeteiligung stärken,Stakeholder,Interaktiv,Stadtweit,Commodity
+102,MaaS Labs,Potsdam,Ökologische Nachhaltigkeit fördern,Dienstleistung,Interaktiv,Stadtweit,Produkt
+103,Autonomes Shuttle / Innovationsplattform E-Bus,Regensburg,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Stadtweit,Produkt
+104,Barrierefrei durch Regensburg - digitale Umsetzung,Regensburg,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Community,Produkt
+105,Forschungsprojekt Solares Bauen,Regensburg,Ökologische Nachhaltigkeit fördern,Infrastruktur,Intern,Personalisiert,Individuell angepasst
+106,Konzept Giga-Bit Ausbau/Schmalband/BayernWLAN,Regensburg,Ökonomische Wettbewerbsfähigkeit fördern,IKT&Technologie,Passiv,Stadtweit,Commodity
+107,Integriertes Digitales Entwicklungskonzept (IDEK),Regensburg,Bürgerbeteiligung stärken,Stakeholder,Passiv,Stadtweit,Produkt
+108,Datenportal Rhein-Neckar,Rhein-Neckar,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Stadtweit,Produkt
+109,Intelligente Marktplätze und Marktfee-App,Rhein-Neckar,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Interaktiv,Community,Produkt
+110,Lernfabrik 4.0,Rhein-Neckar,Wissensmanagement und Wissensaustausch fördern,Stakeholder,Interaktiv,Community,Commodity
+111,ILE.DIGITAL - der digitale Dorfplatz,Ringelai,Ökonomische Wettbewerbsfähigkeit fördern,Dienstleistung,Interaktiv,Stadtweit,Produkt
+112,Heimat im Blick: 3D-Touren,Ringelai,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+113,Auf zu neuen Horizonten:FraunhoferZukunftsworkshop,Ringelai,Wissensmanagement und Wissensaustausch fördern,Stakeholder,Intern,Personalisiert,Commodity
+114,ILE.VEREIN - digitale Vereinsverwaltung,Ringelai,Bürgerbeteiligung stärken,Dienstleistung,Passiv,Community,Commodity
+115,ILE.SYSTEM - Intranet,Ringelai,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Intern,Community,Commodity
+116,Kommunales Elektromobilitätskonzept FL,Schleswig-Flensburg,Dienstleistungen effizienter erbringen,Infrastruktur,Intern,Stadtweit,Commodity
+117,MORO - Sicherung von Versorgung und Mobilität,Schleswig-Flensburg,Dienstleistungen effizienter erbringen,Governance,Intern,Stadtweit,Commodity
+118,GreenTEC Campus,Schleswig-Flensburg,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Interaktiv,Community,Commodity
+119,Smarter Marktplatz Bredstedt,Schleswig-Flensburg,Ökonomische Wettbewerbsfähigkeit fördern,Governance,Interaktiv,Stadtweit,Produkt
+120,Modellprojekt Smart City Amt Süderbrarup,Schleswig-Flensburg,Ökonomische Wettbewerbsfähigkeit fördern,Governance,Intern,Stadtweit,Commodity
+121,Smarte.Land.Regionen (Förderung durch BMEL),Vorpommern-Greifswald,Dienstleistungen effizienter erbringen,Dienstleistung,Passiv,Community,Commodity
+122,Smart Doerp e. V.,Vorpommern-Greifswald,Wissensmanagement und Wissensaustausch fördern,Governance,Passiv,Personalisiert,Commodity
+123,Digitales Klassenzimmer bei der IKT-Ost AöR,Vorpommern-Greifswald,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Community,Commodity
+124,MSEdigital,Vorpommern-Greifswald,Wissensmanagement und Wissensaustausch fördern,Governance,Passiv,Personalisiert,Commodity
+125,Digitale Innovationszentren des Landes (DIZ),Vorpommern-Greifswald,Ökonomische Wettbewerbsfähigkeit fördern,Stakeholder,Interaktiv,Community,Commodity
+126,Breitbandausbau Erschließung Weiße Flecken,Wuppertal,Ökonomische Wettbewerbsfähigkeit fördern,Infrastruktur,Passiv,Stadtweit,Commodity
+127,Aufbau LoRaWAN - Infrastruktur,Wuppertal,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Individuell angepasst
+128,5Green Zoo Wuppertal,Wuppertal,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Individuell angepasst
+129,Wuppertal-Netz W-LAN für Bürger*innen,Wuppertal,Dienstleistungen effizienter erbringen,IKT&Technologie,Passiv,Community,Commodity
+130,OpenData,Wuppertal,Wissensmanagement und Wissensaustausch fördern,Dienstleistung,Passiv,Stadtweit,Commodity
+131,Bürgerbot Messenger Angebot,Würzburg,Dienstleistungen effizienter erbringen,Dienstleistung,Interaktiv,Community,Produkt
+132,Barrierearme anonyme Videotelefonie,Würzburg,Bürgerbeteiligung stärken,Dienstleistung,Interaktiv,Personalisiert,Produkt
+133,LoRaWAN-Netz,Würzburg,Wissensmanagement und Wissensaustausch fördern,IKT&Technologie,Passiv,Personalisiert,Produkt
+134,Bürgerbeteiligung über CONSUL,Würzburg,Bürgerbeteiligung stärken,Dienstleistung,Aktiv,Stadtweit,Produkt
