@@ -1,0 +1,906 @@
+{
+  "version": 1,
+  "name": "CLD_ESG3",
+  "description": "",
+  "proxyImages": true,
+  "defaultMap": "map-aFsP0dNL",
+  "defaultPerspective": null,
+  "attributeRelevance": {},
+  "attributes": [
+    {
+      "_id": "attr-LdBVlynE",
+      "name": "Connection Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [
+        "+",
+        "-"
+      ],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-OJrB9I97",
+      "name": "Description",
+      "format": "text",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "none",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-eQlLSoIh",
+      "name": "Element Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-V360KWy2",
+      "name": "Label",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-KHld2m6X",
+      "name": "Loop Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-RHC52JiF",
+      "name": "Tags",
+      "format": "string",
+      "private": false,
+      "limit": "none",
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    }
+  ],
+  "elements": [
+    {
+      "_id": "elem-0GySwpFR",
+      "attributes": {
+        "label": "Nachhaltigkeitsbildung/-bewusstsein"
+      }
+    },
+    {
+      "_id": "elem-1BZc9wiT",
+      "attributes": {
+        "label": "Standortwahl"
+      }
+    },
+    {
+      "_id": "elem-54OF97uS",
+      "attributes": {
+        "label": "IoT-Plattform"
+      }
+    },
+    {
+      "_id": "elem-DXSNAnPG",
+      "attributes": {
+        "label": "Informations- / Interaktionskonzept"
+      }
+    },
+    {
+      "_id": "elem-HEP81csl",
+      "attributes": {
+        "label": "Kommunikationsmaßnahmen"
+      }
+    },
+    {
+      "_id": "elem-Mx9xB0aL",
+      "attributes": {
+        "label": "Quartiers-Informationsangebot"
+      }
+    },
+    {
+      "_id": "elem-T6uDpeff",
+      "attributes": {
+        "label": ""
+      }
+    },
+    {
+      "_id": "elem-Uv2qtSU2",
+      "attributes": {
+        "label": "digitaler Verbrauchszähler / Sensor"
+      }
+    },
+    {
+      "_id": "elem-XMagDyBA",
+      "attributes": {
+        "label": "ESG-Anforderungen"
+      }
+    },
+    {
+      "_id": "elem-ZamB5zXE",
+      "attributes": {
+        "label": "Kommunikationsmaßnahmen"
+      }
+    },
+    {
+      "_id": "elem-dOp0llm4",
+      "attributes": {
+        "label": "Campus-Navigationssystem"
+      }
+    },
+    {
+      "_id": "elem-ftt4NRIb",
+      "attributes": {
+        "label": "Bildschirm / Information-Stele"
+      }
+    },
+    {
+      "_id": "elem-ghju3fX4",
+      "attributes": {
+        "label": "Nachhaltige Quartierspositionierung"
+      }
+    },
+    {
+      "_id": "elem-iAkJenyT",
+      "attributes": {
+        "label": "Verbrauchserfassung"
+      }
+    },
+    {
+      "_id": "elem-iCtIHqhT",
+      "attributes": {
+        "label": "Funktionsbündelung / Skaleneffekte bei Hardware/Software"
+      }
+    },
+    {
+      "_id": "elem-n6qzxnCm",
+      "attributes": {
+        "label": "Quartiersapp"
+      }
+    },
+    {
+      "_id": "elem-rJqCDzLE",
+      "attributes": {
+        "label": "Web-Interface"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "_id": "conn-27hUTWNu",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-DXSNAnPG",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-2LywCJeP",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-1BZc9wiT",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-5NyC8dUX",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dOp0llm4",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-7Jppu5h2",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Mx9xB0aL",
+      "to": "elem-iCtIHqhT"
+    },
+    {
+      "_id": "conn-7a1DiJW1",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ZamB5zXE",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-9bSnwxP9",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-DXSNAnPG",
+      "to": "elem-rJqCDzLE"
+    },
+    {
+      "_id": "conn-NZiKUpJa",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Mx9xB0aL",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-SpII4VFg",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-rJqCDzLE",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-SusEuURT",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-1BZc9wiT",
+      "to": "elem-0GySwpFR"
+    },
+    {
+      "_id": "conn-YLz9z6GA",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-DXSNAnPG",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-Ys5lG4VB",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Uv2qtSU2",
+      "to": "elem-54OF97uS"
+    },
+    {
+      "_id": "conn-aPgPUY2p",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-XMagDyBA",
+      "to": "elem-DXSNAnPG"
+    },
+    {
+      "_id": "conn-dMOcZXVl",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-0GySwpFR",
+      "to": "elem-XMagDyBA"
+    },
+    {
+      "_id": "conn-ej1ndmWT",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-iAkJenyT",
+      "to": "elem-Uv2qtSU2"
+    },
+    {
+      "_id": "conn-gcIKCm7Q",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-n6qzxnCm",
+      "to": "elem-iCtIHqhT"
+    },
+    {
+      "_id": "conn-iPLAupVu",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-iCtIHqhT",
+      "to": "elem-ftt4NRIb"
+    },
+    {
+      "_id": "conn-iYCZBzfh",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dOp0llm4",
+      "to": "elem-iCtIHqhT"
+    },
+    {
+      "_id": "conn-mspat2BV",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-rJqCDzLE",
+      "to": "elem-n6qzxnCm"
+    },
+    {
+      "_id": "conn-nB69XYnW",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-54OF97uS",
+      "to": "elem-rJqCDzLE"
+    },
+    {
+      "_id": "conn-p4jYMBds",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-0GySwpFR",
+      "to": "elem-ghju3fX4"
+    },
+    {
+      "_id": "conn-v7LXgltR",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-n6qzxnCm",
+      "to": "elem-0GySwpFR"
+    },
+    {
+      "_id": "conn-vJcyJX0v",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ftt4NRIb",
+      "to": "elem-0GySwpFR"
+    }
+  ],
+  "loops": [
+    {
+      "_id": "loop-6idfFrpf",
+      "attributes": {
+        "label": "INTEGRATION"
+      },
+      "connections": [
+        "conn-ej1ndmWT",
+        "conn-v7LXgltR",
+        "conn-5NyC8dUX",
+        "conn-iYCZBzfh",
+        "conn-NZiKUpJa"
+      ]
+    },
+    {
+      "_id": "loop-DjOR6y13",
+      "attributes": {
+        "label": "DIFFUSION"
+      },
+      "connections": [
+        "conn-gcIKCm7Q",
+        "conn-iPLAupVu",
+        "conn-7Jppu5h2"
+      ]
+    },
+    {
+      "_id": "loop-MbwDg6TN",
+      "attributes": {
+        "label": "CONTEXT KNOWLEDGE"
+      },
+      "connections": [
+        "conn-p4jYMBds",
+        "conn-dMOcZXVl"
+      ]
+    },
+    {
+      "_id": "loop-WwzC80mH",
+      "attributes": {
+        "label": "DIFFUSION"
+      },
+      "connections": [
+        "conn-gcIKCm7Q",
+        "conn-iPLAupVu",
+        "conn-7Jppu5h2"
+      ]
+    },
+    {
+      "_id": "loop-Z1138AjU",
+      "attributes": {
+        "label": "VALUE"
+      },
+      "connections": [
+        "conn-Ys5lG4VB",
+        "conn-nB69XYnW",
+        "conn-SpII4VFg",
+        "conn-vJcyJX0v"
+      ]
+    },
+    {
+      "_id": "loop-rYYiBfon",
+      "attributes": {
+        "label": "CONTEXT KNOWLEDGE"
+      },
+      "connections": [
+        "conn-p4jYMBds",
+        "conn-dMOcZXVl"
+      ]
+    },
+    {
+      "_id": "loop-xCPm8ym2",
+      "attributes": {
+        "label": "COMPATIBILITY"
+      },
+      "connections": [
+        "conn-aPgPUY2p"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "_id": "map-aFsP0dNL",
+      "name": "Untitled map",
+      "description": "",
+      "scale": 1,
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "defaultPerspective": "pers-LZYILlLc",
+      "defaultElementBehavior": "fixed",
+      "defaultConnectionDirection": "directed",
+      "elements": [
+        {
+          "_id": "node-1T1UAu6A",
+          "position": {
+            "x": -193.7284367491082,
+            "y": 49.37364671781715
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-54OF97uS"
+        },
+        {
+          "_id": "node-3cFLqmyE",
+          "position": {
+            "x": 95.38975865840835,
+            "y": 30.391559663231376
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-T6uDpeff"
+        },
+        {
+          "_id": "node-4IpojJea",
+          "position": {
+            "x": 738.3584385548647,
+            "y": -65.80497116578313
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-dOp0llm4"
+        },
+        {
+          "_id": "node-626f5G7Q",
+          "position": {
+            "x": 606.0278115525026,
+            "y": 174.4969320921445
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-Mx9xB0aL"
+        },
+        {
+          "_id": "node-6Kx0T0hb",
+          "position": {
+            "x": -48.57979691144779,
+            "y": -121.70347116526794
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-DXSNAnPG"
+        },
+        {
+          "_id": "node-7LDLdZlk",
+          "position": {
+            "x": 248.78003257873848,
+            "y": -136.35340085348395
+          },
+          "pinned": true,
+          "style": {
+            "color": "#bce2ee",
+            "width": 190,
+            "height": 48
+          },
+          "element": "elem-0GySwpFR"
+        },
+        {
+          "_id": "node-AzqKaj7s",
+          "position": {
+            "x": -490.2269251095879,
+            "y": 72.70668544245102
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-Uv2qtSU2"
+        },
+        {
+          "_id": "node-ETIrzZ2m",
+          "position": {
+            "x": -374.5751762397974,
+            "y": -71.22840075970574
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-iAkJenyT"
+        },
+        {
+          "_id": "node-O1OkIP99",
+          "position": {
+            "x": 743.3745624806377,
+            "y": 43.29228918558277
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-ZamB5zXE"
+        },
+        {
+          "_id": "node-S18RNRKn",
+          "position": {
+            "x": 14.712208232144834,
+            "y": 14.900730155115587
+          },
+          "pinned": true,
+          "style": {
+            "color": "#bce2ee"
+          },
+          "element": "elem-ghju3fX4"
+        },
+        {
+          "_id": "node-aW42Oryc",
+          "position": {
+            "x": 504.22730778526676,
+            "y": -179.05687049412762
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-iCtIHqhT"
+        },
+        {
+          "_id": "node-c95x4TJc",
+          "position": {
+            "x": 132.95226302540345,
+            "y": 192.5846532176428
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-n6qzxnCm"
+        },
+        {
+          "_id": "node-ile2HDiA",
+          "position": {
+            "x": 307.7594210715447,
+            "y": 87.34982531481393
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-ftt4NRIb"
+        },
+        {
+          "_id": "node-lT1UXF22",
+          "position": {
+            "x": 184.50497086613746,
+            "y": -387.66251710994067
+          },
+          "pinned": true,
+          "style": {
+            "color": "#3596c0"
+          },
+          "element": "elem-XMagDyBA"
+        },
+        {
+          "_id": "node-oXBFUXZq",
+          "position": {
+            "x": -19.482863192462958,
+            "y": 112.75992551563455
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-rJqCDzLE"
+        },
+        {
+          "_id": "node-qjgWv78P",
+          "position": {
+            "x": 545.7920430202132,
+            "y": -25.422973264009524
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-1BZc9wiT"
+        }
+      ],
+      "connections": [
+        {
+          "_id": "edge-57GDdo8I",
+          "style": {},
+          "connection": "conn-2LywCJeP"
+        },
+        {
+          "_id": "edge-5nczEqQs",
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-NZiKUpJa"
+        },
+        {
+          "_id": "edge-9Q8MkH0C",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-Ys5lG4VB"
+        },
+        {
+          "_id": "edge-BHm6jSSV",
+          "style": {
+            "color": "#fdc16f"
+          },
+          "connection": "conn-ej1ndmWT"
+        },
+        {
+          "_id": "edge-HPTlitgD",
+          "curvature": -0.3904876675233922,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-iYCZBzfh"
+        },
+        {
+          "_id": "edge-IgbzimrK",
+          "curvature": -0.8747418105989655,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-SpII4VFg"
+        },
+        {
+          "_id": "edge-LwZO3Kk1",
+          "curvature": -0.28437733392961717,
+          "style": {
+            "color": "#3596c0"
+          },
+          "connection": "conn-aPgPUY2p"
+        },
+        {
+          "_id": "edge-MpaMDKC4",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-9bSnwxP9"
+        },
+        {
+          "_id": "edge-Mwogrhdi",
+          "curvature": -1.646886608659251,
+          "style": {},
+          "connection": "conn-7Jppu5h2"
+        },
+        {
+          "_id": "edge-TJCCV3Tq",
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-5NyC8dUX"
+        },
+        {
+          "_id": "edge-Tem5SrFG",
+          "style": {},
+          "connection": "conn-SusEuURT"
+        },
+        {
+          "_id": "edge-XTeXZLpn",
+          "curvature": 0.8469028862077075,
+          "style": {},
+          "connection": "conn-gcIKCm7Q"
+        },
+        {
+          "_id": "edge-a5HznAy7",
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-v7LXgltR"
+        },
+        {
+          "_id": "edge-bdzEcBXm",
+          "curvature": 0.7599417521794245,
+          "style": {
+            "color": "#bce2ee"
+          },
+          "connection": "conn-p4jYMBds"
+        },
+        {
+          "_id": "edge-hD35YRis",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-nB69XYnW"
+        },
+        {
+          "_id": "edge-iTFsbwR8",
+          "style": {},
+          "connection": "conn-7a1DiJW1"
+        },
+        {
+          "_id": "edge-kaasID0m",
+          "curvature": -0.3382626468267687,
+          "style": {
+            "color": "#bce2ee"
+          },
+          "connection": "conn-dMOcZXVl"
+        },
+        {
+          "_id": "edge-kzsNlZCJ",
+          "style": {},
+          "connection": "conn-iPLAupVu"
+        },
+        {
+          "_id": "edge-qeGxG83f",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-27hUTWNu"
+        },
+        {
+          "_id": "edge-r99yXDS8",
+          "style": {
+            "color": "#fdc16f"
+          },
+          "connection": "conn-mspat2BV"
+        },
+        {
+          "_id": "edge-wceY1iGU",
+          "curvature": -0.18855798191264306,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-vJcyJX0v"
+        }
+      ],
+      "loops": [
+        {
+          "_id": "labl-4hlCdGJ1",
+          "position": {
+            "x": -222.78938690355596,
+            "y": 133.9263113189549
+          },
+          "pinned": true,
+          "style": {
+            "fontColor": "#b9e5a0",
+            "fontSize": 30
+          },
+          "loop": "loop-Z1138AjU"
+        },
+        {
+          "_id": "labl-EFgRYfI0",
+          "position": {
+            "x": -56.1873563913439,
+            "y": -320.1021264512036
+          },
+          "pinned": true,
+          "style": {
+            "fontSize": 30,
+            "fontColor": "#487bba"
+          },
+          "loop": "loop-xCPm8ym2"
+        },
+        {
+          "_id": "labl-ExYDN3A6",
+          "position": {
+            "x": 511.7166359380198,
+            "y": -294.1266119739455
+          },
+          "pinned": true,
+          "style": {
+            "fontSize": 30,
+            "fontColor": "#a7a7a7"
+          },
+          "loop": "loop-DjOR6y13"
+        },
+        {
+          "_id": "labl-TjQTDzDb",
+          "position": {
+            "x": 541.7501738284396,
+            "y": -177.27092896486727
+          },
+          "pinned": true,
+          "style": {},
+          "loop": "loop-WwzC80mH"
+        },
+        {
+          "_id": "labl-ZF1kBuWB",
+          "position": {
+            "x": 131.38436529277826,
+            "y": -247.98630862264372
+          },
+          "pinned": true,
+          "style": {
+            "fontColor": "#80b8d7",
+            "fontSize": 30
+          },
+          "loop": "loop-MbwDg6TN"
+        },
+        {
+          "_id": "labl-gMSPiOqm",
+          "position": {
+            "x": 645.0141011708032,
+            "y": 141.35351214674623
+          },
+          "pinned": true,
+          "style": {
+            "fontColor": "#fd9e43",
+            "fontSize": 30
+          },
+          "loop": "loop-6idfFrpf"
+        }
+      ]
+    }
+  ],
+  "perspectives": [
+    {
+      "_id": "pers-LZYILlLc",
+      "name": "Untitled view",
+      "style": "@settings {\n  template: causal-loop;\n  element-color: categorize(\"Element Type\", neon2);\n  same-color: #b9e5a0;\n}\n\n"
+    }
+  ]
+}

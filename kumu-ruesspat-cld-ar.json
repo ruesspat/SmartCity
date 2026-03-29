@@ -1,0 +1,1029 @@
+{
+  "version": 1,
+  "name": "CLD_AR",
+  "description": "Smart City Replication_Augmented Reality",
+  "proxyImages": true,
+  "defaultMap": "map-atY1WoUO",
+  "defaultPerspective": null,
+  "attributeRelevance": {},
+  "attributes": [
+    {
+      "_id": "attr-LLJwVd93",
+      "name": "Connection Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [
+        "+",
+        "-"
+      ],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-5k1EDgfT",
+      "name": "Description",
+      "format": "text",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "none",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-wuUwZrco",
+      "name": "Element Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-3su8EPJA",
+      "name": "Label",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-EbeeiwFq",
+      "name": "Loop Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-40Ib8F2w",
+      "name": "Tags",
+      "format": "string",
+      "private": false,
+      "limit": "none",
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    }
+  ],
+  "elements": [
+    {
+      "_id": "elem-2nuCIQ7r",
+      "attributes": {
+        "label": "Marketing-/Kommunikationmaßnahmen"
+      }
+    },
+    {
+      "_id": "elem-3DPzsHgE",
+      "attributes": {
+        "label": "Smartphone/Tablet"
+      }
+    },
+    {
+      "_id": "elem-9UabLvTq",
+      "attributes": {
+        "label": "Unity Game Engine"
+      }
+    },
+    {
+      "_id": "elem-BHqHSb3x",
+      "attributes": {
+        "label": "Einfahrtskontrollsystem"
+      }
+    },
+    {
+      "_id": "elem-G27U4TE5",
+      "attributes": {
+        "label": "VPS-Position"
+      }
+    },
+    {
+      "_id": "elem-IsbEMaib",
+      "attributes": {
+        "label": "Parkraum-Management-System"
+      }
+    },
+    {
+      "_id": "elem-JmxlZeMs",
+      "attributes": {
+        "label": "Google Geospatial Creator"
+      }
+    },
+    {
+      "_id": "elem-MjH5g1N1",
+      "attributes": {
+        "label": "Google Street View"
+      }
+    },
+    {
+      "_id": "elem-PtdYWMnE",
+      "attributes": {
+        "label": "Quartiers-Plattform/Quartiers-App"
+      }
+    },
+    {
+      "_id": "elem-WHZM4Nvs",
+      "attributes": {
+        "label": "Daten-Schnittstelle (ftp-server)"
+      }
+    },
+    {
+      "_id": "elem-Wh6ogFuw",
+      "attributes": {
+        "label": "AR-Artefakt"
+      }
+    },
+    {
+      "_id": "elem-YJX2nfDQ",
+      "attributes": {
+        "label": "+"
+      }
+    },
+    {
+      "_id": "elem-dDCzjIzI",
+      "attributes": {
+        "label": "ar-ar"
+      }
+    },
+    {
+      "_id": "elem-dgJllsf3",
+      "attributes": {
+        "label": "Weitere AR-Quartiersanwendungen"
+      }
+    },
+    {
+      "_id": "elem-dm5kgNv8",
+      "attributes": {
+        "label": "AR artefakt"
+      }
+    },
+    {
+      "_id": "elem-eIlSBPIY",
+      "attributes": {
+        "label": "Quartiersführungen"
+      }
+    },
+    {
+      "_id": "elem-gvJcySXd",
+      "attributes": {
+        "label": "AR-App"
+      }
+    },
+    {
+      "_id": "elem-jX0mLLHp",
+      "attributes": {
+        "label": "Standortmarketing"
+      }
+    },
+    {
+      "_id": "elem-uHe5lwni",
+      "attributes": {
+        "label": "AR-Verfügbarkeit/kompatible Hardware"
+      }
+    },
+    {
+      "_id": "elem-zFaDdLQC",
+      "attributes": {
+        "label": "Innovatives Quartiersimage"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "_id": "conn-0Gw6eGfs",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Wh6ogFuw",
+      "to": "elem-2nuCIQ7r"
+    },
+    {
+      "_id": "conn-0h6ikIL1",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-jX0mLLHp",
+      "to": "elem-PtdYWMnE"
+    },
+    {
+      "_id": "conn-10IKHoIt",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Wh6ogFuw",
+      "to": "elem-eIlSBPIY"
+    },
+    {
+      "_id": "conn-3OXwnXL7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-3DPzsHgE",
+      "to": "elem-Wh6ogFuw"
+    },
+    {
+      "_id": "conn-3RypW3Tu",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-jX0mLLHp",
+      "to": "elem-zFaDdLQC"
+    },
+    {
+      "_id": "conn-3SjIdDJk",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-2nuCIQ7r",
+      "to": "elem-PtdYWMnE"
+    },
+    {
+      "_id": "conn-6ppC49eS",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-JmxlZeMs",
+      "to": "elem-gvJcySXd"
+    },
+    {
+      "_id": "conn-HI1eN1MT",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-eIlSBPIY",
+      "to": "elem-jX0mLLHp"
+    },
+    {
+      "_id": "conn-Ip1opJ9I",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-PtdYWMnE",
+      "to": "elem-zFaDdLQC"
+    },
+    {
+      "_id": "conn-N9wv4D41",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-uHe5lwni",
+      "to": "elem-3DPzsHgE"
+    },
+    {
+      "_id": "conn-ObQRrt5n",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-PtdYWMnE",
+      "to": "elem-BHqHSb3x"
+    },
+    {
+      "_id": "conn-R93dHsyn",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dgJllsf3",
+      "to": "elem-PtdYWMnE"
+    },
+    {
+      "_id": "conn-TdxX952y",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": true,
+      "attributes": {},
+      "from": "elem-9UabLvTq",
+      "to": "elem-gvJcySXd"
+    },
+    {
+      "_id": "conn-VaKjbxS1",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-BHqHSb3x",
+      "to": "elem-IsbEMaib"
+    },
+    {
+      "_id": "conn-Y8xSTNnX",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-gvJcySXd",
+      "to": "elem-Wh6ogFuw"
+    },
+    {
+      "_id": "conn-ZVhP7LHr",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-G27U4TE5",
+      "to": "elem-gvJcySXd"
+    },
+    {
+      "_id": "conn-b2a4XlZp",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dDCzjIzI",
+      "to": "elem-PtdYWMnE"
+    },
+    {
+      "_id": "conn-c4n0coRh",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-JmxlZeMs",
+      "to": "elem-G27U4TE5"
+    },
+    {
+      "_id": "conn-d8VZeKLs",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-WHZM4Nvs",
+      "to": "elem-gvJcySXd"
+    },
+    {
+      "_id": "conn-dmolXlSK",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Wh6ogFuw",
+      "to": "elem-PtdYWMnE"
+    },
+    {
+      "_id": "conn-eaknRxld",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-IsbEMaib",
+      "to": "elem-WHZM4Nvs"
+    },
+    {
+      "_id": "conn-isLFBY9W",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dm5kgNv8",
+      "to": "elem-PtdYWMnE"
+    },
+    {
+      "_id": "conn-kxl9e0Ee",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dgJllsf3",
+      "to": "elem-zFaDdLQC"
+    },
+    {
+      "_id": "conn-mSeBBXzt",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-dm5kgNv8",
+      "to": "elem-jX0mLLHp"
+    },
+    {
+      "_id": "conn-riDRXWoB",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-gvJcySXd",
+      "to": "elem-3DPzsHgE"
+    },
+    {
+      "_id": "conn-vumDLD0t",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-2nuCIQ7r",
+      "to": "elem-jX0mLLHp"
+    },
+    {
+      "_id": "conn-yoZeD6I7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": true,
+      "attributes": {},
+      "from": "elem-Wh6ogFuw",
+      "to": "elem-jX0mLLHp"
+    },
+    {
+      "_id": "conn-zRfWjjLa",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MjH5g1N1",
+      "to": "elem-JmxlZeMs"
+    }
+  ],
+  "loops": [
+    {
+      "_id": "loop-5WP7SmIz",
+      "attributes": {
+        "label": "COMPATIBILITY"
+      },
+      "connections": [
+        "conn-zRfWjjLa"
+      ]
+    },
+    {
+      "_id": "loop-dnnlQjiJ",
+      "attributes": {
+        "label": "Quartiersintegration (reinforcing)"
+      },
+      "connections": [
+        "conn-ObQRrt5n",
+        "conn-VaKjbxS1",
+        "conn-eaknRxld",
+        "conn-d8VZeKLs",
+        "conn-riDRXWoB",
+        "conn-3OXwnXL7",
+        "conn-dmolXlSK"
+      ]
+    },
+    {
+      "_id": "loop-gRBOD7m3",
+      "attributes": {
+        "label": "DIFFUSION"
+      },
+      "connections": [
+        "conn-HI1eN1MT",
+        "conn-vumDLD0t",
+        "conn-3SjIdDJk"
+      ]
+    },
+    {
+      "_id": "loop-jYf8XBqS",
+      "attributes": {
+        "label": "VALUE"
+      },
+      "connections": [
+        "conn-d8VZeKLs",
+        "conn-TdxX952y",
+        "conn-6ppC49eS",
+        "conn-c4n0coRh",
+        "conn-ZVhP7LHr",
+        "conn-riDRXWoB",
+        "conn-3OXwnXL7",
+        "conn-10IKHoIt",
+        "conn-0Gw6eGfs",
+        "conn-dmolXlSK",
+        "conn-yoZeD6I7"
+      ]
+    },
+    {
+      "_id": "loop-jwy4ARaf",
+      "attributes": {
+        "label": "INTEGRATION"
+      },
+      "connections": [
+        "conn-ObQRrt5n",
+        "conn-VaKjbxS1",
+        "conn-eaknRxld"
+      ]
+    },
+    {
+      "_id": "loop-vjJOkkb9",
+      "attributes": {
+        "label": "CONTEXT KNOWLEDGE"
+      },
+      "connections": [
+        "conn-3RypW3Tu"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "_id": "map-atY1WoUO",
+      "name": "Untitled map",
+      "description": "",
+      "scale": 1,
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "defaultPerspective": "pers-teGujgd5",
+      "defaultElementBehavior": "fixed",
+      "defaultConnectionDirection": "directed",
+      "elements": [
+        {
+          "_id": "node-86nnDRuQ",
+          "position": {
+            "x": -375.8614655196932,
+            "y": 164.64687226979794
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-9UabLvTq"
+        },
+        {
+          "_id": "node-AjzrLnrW",
+          "position": {
+            "x": 617.0129076924517,
+            "y": -138.95121073906233
+          },
+          "pinned": true,
+          "style": {
+            "color": "#ccc"
+          },
+          "element": "elem-2nuCIQ7r"
+        },
+        {
+          "_id": "node-FeiPpQww",
+          "position": {
+            "x": 56.49369836667731,
+            "y": -163.40576734929303
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-PtdYWMnE"
+        },
+        {
+          "_id": "node-KAbAvgBv",
+          "position": {
+            "x": -356.46611154662355,
+            "y": 96.48953613292605
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-JmxlZeMs"
+        },
+        {
+          "_id": "node-OxHJb02y",
+          "position": {
+            "x": -163.10984190539185,
+            "y": -375.2212167570057
+          },
+          "pinned": true,
+          "style": {
+            "color": "#bce2ee"
+          },
+          "element": "elem-zFaDdLQC"
+        },
+        {
+          "_id": "node-TdHxZ57h",
+          "position": {
+            "x": 256.0325433297078,
+            "y": -133.4329996393382
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-Wh6ogFuw"
+        },
+        {
+          "_id": "node-X0BMy9Qm",
+          "position": {
+            "x": 52.31660702021409,
+            "y": -273.2614465550301
+          },
+          "pinned": true,
+          "style": {
+            "color": "#bce2ee"
+          },
+          "element": "elem-jX0mLLHp"
+        },
+        {
+          "_id": "node-YuBRvqug",
+          "position": {
+            "x": 75.63294741874154,
+            "y": -36.81045681119035
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-G27U4TE5"
+        },
+        {
+          "_id": "node-bepbf7Fg",
+          "position": {
+            "x": 796.5704217258623,
+            "y": -269.198123498139
+          },
+          "pinned": true,
+          "style": {
+            "fontColor": "#212121",
+            "color": "#c6c6c6"
+          },
+          "element": "elem-dgJllsf3"
+        },
+        {
+          "_id": "node-iD6cSlwF",
+          "position": {
+            "x": -418.15296209663575,
+            "y": -207.80052771302067
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-BHqHSb3x"
+        },
+        {
+          "_id": "node-k3UWCvO2",
+          "position": {
+            "x": 108.07667093674122,
+            "y": 387.57623094713233
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-YJX2nfDQ"
+        },
+        {
+          "_id": "node-kM5kx8iE",
+          "position": {
+            "x": 2.887405336548028,
+            "y": 101.63169913565349
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-gvJcySXd"
+        },
+        {
+          "_id": "node-opqok1OD",
+          "position": {
+            "x": -235.69631881474982,
+            "y": -475.4054295795375
+          },
+          "pinned": true,
+          "style": {
+            "color": "#3596c0"
+          },
+          "element": "elem-MjH5g1N1"
+        },
+        {
+          "_id": "node-p7qQNlQu",
+          "position": {
+            "x": 361.5729006013655,
+            "y": -502.92374263737673
+          },
+          "pinned": true,
+          "style": {
+            "color": "#3596c0"
+          },
+          "element": "elem-uHe5lwni"
+        },
+        {
+          "_id": "node-rjcmgWOf",
+          "position": {
+            "x": -512.0607321578574,
+            "y": 33.82713793427658
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-WHZM4Nvs"
+        },
+        {
+          "_id": "node-slqfWeDl",
+          "position": {
+            "x": -528.6897988714937,
+            "y": -100.51854234648023
+          },
+          "pinned": true,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "element": "elem-IsbEMaib"
+        },
+        {
+          "_id": "node-vdMtdkPI",
+          "position": {
+            "x": 465.30949184548757,
+            "y": 27.873977515658417
+          },
+          "pinned": true,
+          "style": {
+            "color": "#ccc"
+          },
+          "element": "elem-eIlSBPIY"
+        },
+        {
+          "_id": "node-wjGdEYS8",
+          "position": {
+            "x": 216.90393204799975,
+            "y": 109.84949025639092
+          },
+          "pinned": true,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "element": "elem-3DPzsHgE"
+        }
+      ],
+      "connections": [
+        {
+          "_id": "edge-12qgsr5C",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-TdxX952y"
+        },
+        {
+          "_id": "edge-4DtYNQpS",
+          "curvature": 0.3108030310738843,
+          "style": {
+            "color": "#bce2ee"
+          },
+          "connection": "conn-3RypW3Tu"
+        },
+        {
+          "_id": "edge-8bCkz7fp",
+          "curvature": 0.2443407446287863,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-c4n0coRh"
+        },
+        {
+          "_id": "edge-Ghibebvq",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-ZVhP7LHr"
+        },
+        {
+          "_id": "edge-HXUepTAI",
+          "curvature": -0.5704840279134887,
+          "style": {},
+          "connection": "conn-kxl9e0Ee"
+        },
+        {
+          "_id": "edge-JRd2prb5",
+          "curvature": -0.3614285183680354,
+          "style": {},
+          "connection": "conn-R93dHsyn"
+        },
+        {
+          "_id": "edge-Ob12lbvP",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-yoZeD6I7"
+        },
+        {
+          "_id": "edge-RLbnzlb6",
+          "curvature": -0.41989357439542807,
+          "style": {},
+          "connection": "conn-3SjIdDJk"
+        },
+        {
+          "_id": "edge-WrtC3xWo",
+          "curvature": -0.8550033864145665,
+          "style": {
+            "color": "#b9e5a0",
+            "style": "solid",
+            "size": 5.95
+          },
+          "connection": "conn-d8VZeKLs"
+        },
+        {
+          "_id": "edge-YLuPNVNU",
+          "curvature": -0.46205832856328344,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-riDRXWoB"
+        },
+        {
+          "_id": "edge-ZuIlUoJe",
+          "curvature": -0.26938205690763917,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-10IKHoIt"
+        },
+        {
+          "_id": "edge-c1sdaHfx",
+          "curvature": -0.4491193734753506,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-VaKjbxS1"
+        },
+        {
+          "_id": "edge-gSFAiGhw",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-0Gw6eGfs"
+        },
+        {
+          "_id": "edge-jrw8MQlf",
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-ObQRrt5n"
+        },
+        {
+          "_id": "edge-kE8PxxOS",
+          "style": {
+            "color": "#3596c0"
+          },
+          "connection": "conn-N9wv4D41"
+        },
+        {
+          "_id": "edge-kL5Z86wg",
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-0h6ikIL1"
+        },
+        {
+          "_id": "edge-lVdTAVd7",
+          "curvature": -0.22193762778511872,
+          "style": {
+            "color": "#487bba"
+          },
+          "connection": "conn-zRfWjjLa"
+        },
+        {
+          "_id": "edge-lwss8lRK",
+          "curvature": -1.0636844451904104,
+          "style": {},
+          "connection": "conn-HI1eN1MT"
+        },
+        {
+          "_id": "edge-o9bslf8S",
+          "curvature": -0.8199687357609104,
+          "style": {},
+          "connection": "conn-vumDLD0t"
+        },
+        {
+          "_id": "edge-pUSiRLQk",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-6ppC49eS"
+        },
+        {
+          "_id": "edge-r2M2Nffz",
+          "curvature": -0.22413442434626588,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-eaknRxld"
+        },
+        {
+          "_id": "edge-rbDj7ZS4",
+          "curvature": 0.5397278916406406,
+          "style": {
+            "color": "#fd9e43"
+          },
+          "connection": "conn-Ip1opJ9I"
+        },
+        {
+          "_id": "edge-u7gL1VTe",
+          "curvature": 0.18002543408631527,
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-dmolXlSK"
+        },
+        {
+          "_id": "edge-xivMIR69",
+          "style": {
+            "color": "#b9e5a0"
+          },
+          "connection": "conn-3OXwnXL7"
+        }
+      ],
+      "loops": [
+        {
+          "_id": "labl-0neVmvIm",
+          "position": {
+            "x": -135.04963935955644,
+            "y": -514.9744022599127
+          },
+          "pinned": true,
+          "style": {
+            "fontSize": 35,
+            "fontColor": "#1b6ab0"
+          },
+          "loop": "loop-5WP7SmIz"
+        },
+        {
+          "_id": "labl-6QW6HvaX",
+          "position": {
+            "x": 29.20586617998454,
+            "y": -420.44374681058434
+          },
+          "pinned": true,
+          "style": {
+            "fontSize": 35,
+            "fontColor": "#bce2ee"
+          },
+          "loop": "loop-vjJOkkb9"
+        },
+        {
+          "_id": "labl-HHronnXi",
+          "position": {
+            "x": -175.56356010062623,
+            "y": 130.42784781300014
+          },
+          "pinned": true,
+          "style": {
+            "fontColor": "#b9e5a0",
+            "fontStyle": "normal",
+            "fontSize": 35
+          },
+          "loop": "loop-jYf8XBqS"
+        },
+        {
+          "_id": "labl-gIDs3lz3",
+          "position": {
+            "x": 597.2829638999666,
+            "y": -402.9955726190672
+          },
+          "pinned": true,
+          "style": {
+            "fontSize": 35,
+            "fontColor": "#a7a7a7"
+          },
+          "loop": "loop-gRBOD7m3"
+        },
+        {
+          "_id": "labl-rSvJnuDj",
+          "position": {
+            "x": -119.61933644611253,
+            "y": -92.8457681319066
+          },
+          "pinned": true,
+          "style": {
+            "fontSize": 35,
+            "fontColor": "#fd9e43",
+            "fontWeight": "bold"
+          },
+          "loop": "loop-jwy4ARaf"
+        }
+      ]
+    }
+  ],
+  "perspectives": [
+    {
+      "_id": "pers-teGujgd5",
+      "name": "Untitled view",
+      "style": "@settings {\n  template: causal-loop;\n  layout: force;\n}\n\n"
+    }
+  ]
+}
